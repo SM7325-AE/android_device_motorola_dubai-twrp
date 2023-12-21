@@ -35,7 +35,7 @@ Blobs from stock ROM user 13 T1RD33.116-33-3 a0c97 release-keys
 
 ## Kernel
 
-Prebuilt kernel from stock ROM user-12-S1RD32.55-94-2-25a783-release-keys
+Prebuilt kernel from stock ROM user 13 T1RD33.116-33-3 a0c97 release-keys
 
 ## Compile
 

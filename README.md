@@ -29,6 +29,10 @@ Touch Sampling Rate | 360 Hz
 
 ![Device Picture](https://motorolaau.vtexassets.com/arquivos/ids/156289/Motorola-edge-30-pdp-render-Silence-12-bcxm87y2.png)
 
+## Blobs
+
+Blobs from stock ROM user 13 T1RD33.116-33-3 a0c97 release-keys
+
 ## Kernel
 
 Prebuilt kernel from stock ROM user-12-S1RD32.55-94-2-25a783-release-keys
